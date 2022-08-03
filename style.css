@@ -20,6 +20,11 @@
     background-color: #bebcbb;
 }
 
+.dg-bg-darkblue {
+    background-color:#161c3b ;
+    color: white;
+}
+
 
 .logo-sony {
     height: 15px;
@@ -32,6 +37,16 @@
     padding: 4px 20px;
     border: none;
     color:#2e65e6;
+}
+
+.btn-esplora-now {
+
+    background-color:#d9dadc;
+    border-radius: 25px;
+    padding: 4px 20px;
+    border: none;
+    color:black;
+
 }
 
 .section1 {
