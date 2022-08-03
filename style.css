@@ -2,7 +2,8 @@
 
 .dg-bg-dark {
     background-color: black;
-    max-width: 100%;
+    width: 100%;
+    background-position: 50%;
     
 }
 
@@ -13,4 +14,10 @@
 
 .section1 {
     background-image: url(img/jumbo-bg.png);
+    height: 500px;
+    width: 100%;
+}
+
+.btn-danger {
+    border-radius: 50px;
 }
