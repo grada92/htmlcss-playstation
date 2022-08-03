@@ -60,9 +60,10 @@ a {
 
 .section1 {
     background-image: url(img/jumbo-bg.png);
-    height: 500px;
-    width: 100%;
+    background-position: center;
+    background-size: cover;
 }
+
 
 .btn-danger {
     border-radius: 50px;
