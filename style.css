@@ -16,10 +16,22 @@
     color: white;
 }
 
+.dg-bg-grey {
+    background-color: #bebcbb;
+}
+
 
 .logo-sony {
     height: 15px;
     
+}
+
+.btn-esplora {
+    background-color:#d9dadc;
+    border-radius: 25px;
+    padding: 4px 20px;
+    border: none;
+    color:#2e65e6;
 }
 
 .section1 {
