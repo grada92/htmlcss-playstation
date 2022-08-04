@@ -91,7 +91,7 @@ a {
 
 .section2 img:hover {
     border: 2px blue solid;
-    padding: 5px;
+    padding: 3px;
     margin: -3px;
     cursor: pointer;
 
