@@ -85,3 +85,17 @@ a {
     background-size: cover;
     height: 600px;
 }
+
+/***** Effects ****/
+
+.section2 img:hover {
+    border: 2px blue solid;
+    padding: 3px;
+    margin: -3px;
+
+}
+
+.section3 img:hover {
+    border-bottom: 2px blue solid;
+    margin: -2px;
+}
