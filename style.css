@@ -86,16 +86,29 @@ a {
     height: 600px;
 }
 
+
 /***** Effects ****/
 
 .section2 img:hover {
     border: 2px blue solid;
-    padding: 3px;
+    padding: 5px;
     margin: -3px;
+    cursor: pointer;
+
 
 }
 
-.section3 img:hover {
+.img-console:hover {
     border-bottom: 2px blue solid;
-    margin: -2px;
+    margin-bottom: -2px;
+    cursor: pointer;
+
+
 }
+
+.section5 img:hover {
+    border: 2px blue solid;
+    cursor: pointer;
+    padding: -10px;
+}
+
