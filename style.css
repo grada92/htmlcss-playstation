@@ -91,14 +91,14 @@ a {
     border: none;
 }
 
-li {
-    list-style-type: none;
-}
 
 .dropdown-toggle {
     color: black;
 }
 
+.img-menu li {
+    list-style-type: none;
+}
 
 
 /***** Effects ****/
