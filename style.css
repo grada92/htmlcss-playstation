@@ -121,4 +121,9 @@ li {
     padding: -10px;
 }
 
+.social:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
 /******** / EFFECTS *****/
