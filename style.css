@@ -101,11 +101,11 @@ li {
 
 .section2 img:hover {
     border: 2px blue solid;
-    margin: -2px;
-    padding: 1px;
+    padding: 3px;
+    margin: -20px 0px;
     cursor: pointer;
-    transform: translatey(-30px);
-    transition: 1s;
+    transform: translatey(-20px);
+    transition: 1s linear;
 }
 
 .img-console:hover {
