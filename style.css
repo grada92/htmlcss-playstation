@@ -117,9 +117,13 @@ li {
     margin-bottom: -2px;
     cursor: pointer;
     opacity: 0.4;
-
-
 }
+
+.btn-danger:hover {
+    border: 3px red solid;
+    margin: -1.7px;  
+}
+
 
 .section5 img:hover {
     border: 2px blue solid;
@@ -131,5 +135,12 @@ li {
     opacity: 0.8;
     cursor: pointer;
 }
+
+.section8 img:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+
 
 /******** / EFFECTS *****/
